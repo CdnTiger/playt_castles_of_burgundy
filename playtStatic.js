@@ -7,23 +7,25 @@ var playt = {};
             include: 1,
             cardBack: "cards/playing_cards.jpg",
             images: [
-                "cards/playing_cards/architect1.png",
-                "cards/playing_cards/architect2.png",
-                "cards/playing_cards/architect3.png",
-                "cards/playing_cards/architect4.png",
-                "cards/playing_cards/prefect1.png",
-                "cards/playing_cards/prefect2.png",
-                "cards/playing_cards/prefect3.png",
-                "cards/playing_cards/prefect4.png",
-                "cards/playing_cards/senator1.png",
-                "cards/playing_cards/senator2.png",
+                "cards/playing_cards/dice1.png",
+                "cards/playing_cards/dice1b.png",
+                "cards/playing_cards/dice2.png",
+                "cards/playing_cards/dice2b.png",
+                "cards/playing_cards/dice3.png",
+                "cards/playing_cards/dice3b.png",
+                "cards/playing_cards/dice4.png",
+                "cards/playing_cards/dice4b.png",
+                "cards/playing_cards/dice5.png",
+                "cards/playing_cards/dice5b.png",
+                "cards/playing_cards/dice6.png",
+                "cards/playing_cards/dice6b.png"
                 ]
         }
     ];
     
     playt.dice = [
         {   name: "d6",
-            include: 5,
+            include: 0,
             images: [
                 "dice/d6/dice-1-th.png",
                 "dice/d6/dice-2-th.png",
