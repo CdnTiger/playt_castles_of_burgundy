@@ -1,3 +1,7 @@
+This app allows one to play the Castles of Burgundy solo automa using a phone/tablet to randomly generate the automa cards instead of having to print them.  It is a direct copy of the app whose description I have left unedited below, with the obvious exception of changing the card images that the app uses.
+
+Many thanks to Peter Vasiliauskas for creating the original app and making it available to others.
+
 Playt
 ========
 
